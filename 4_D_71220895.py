@@ -1,0 +1,6 @@
+print("!! Selamat datang di H+ GYM!!")
+print("Silahkan pilih menu dibawah ini : ")
+print("1. Menambah data")
+print("2. Menampilkan data")
+print("3. Keluar")
+pilih = int(input("Silahkan masukkan pilihan yang anda inginkan: "))
